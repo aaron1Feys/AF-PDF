@@ -1,4 +1,4 @@
-package GUI.PreviewPanel;
+package GUI.PrevieuwPanel;
 
 import javax.swing.JPanel;
 

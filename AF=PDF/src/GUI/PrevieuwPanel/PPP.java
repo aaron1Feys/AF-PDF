@@ -1,4 +1,4 @@
-package GUI.PreviewPanel;
+package GUI.PrevieuwPanel;
 
 import java.awt.GridBagLayout;
 
